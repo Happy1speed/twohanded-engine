@@ -1,0 +1,12 @@
+{
+  "required": true,
+  "package": "net.happyspeed.twohandedengine.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "mixins": [
+    "PlayerMixin",
+    "ServerGamePacketListenerImplMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}

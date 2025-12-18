@@ -1,0 +1,10 @@
+{
+  "tooltips.crit_disabled": "1.0x Critical Multiplier",
+  "tooltips.crit_ultra_light": "1.2x Critical Multiplier",
+  "tooltips.crit_light": "1.35x Critical Multiplier",
+  "tooltips.crit_heavy": "1.65x Critical Multiplier",
+  "tooltips.crit_ultra_heavy": "1.8x Critical Multiplier",
+  "tooltips.crit_standard": "1.5x Critical Multiplier",
+  "tooltips.twohanded": "Two Handed",
+  "tooltips.twohanded_allowed": "Two Handed Offhand Allowed"
+}
