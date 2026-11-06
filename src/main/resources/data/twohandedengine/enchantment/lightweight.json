@@ -1,0 +1,35 @@
+{
+  "description": {
+    "translate": "enchantment.twohandedengine.lightweight"
+  },
+  "supported_items": "#twohandedengine:twohanded",
+  "primary_items": "#twohandedengine:twohanded",
+  "weight": 2,
+  "max_level": 1,
+  "min_cost": {
+    "base": 10,
+    "per_level_above_first": 9
+  },
+  "max_cost": {
+    "base": 45,
+    "per_level_above_first": 9
+  },
+  "anvil_cost": 3,
+  "slots": [
+    "mainhand"
+  ],
+  "effects": {
+    "minecraft:attributes": [
+      {
+        "id": "twohandedengine:onehanded_reduction",
+        "attribute": "minecraft:generic.attack_damage",
+        "amount": {
+          "type": "minecraft:linear",
+          "base": -1.0,
+          "per_level_above_first": -0.1
+        },
+        "operation": "add_value"
+      }
+    ]
+  }
+}

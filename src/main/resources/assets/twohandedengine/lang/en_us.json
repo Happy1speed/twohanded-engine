@@ -6,5 +6,7 @@
   "tooltips.crit_ultra_heavy": "1.8x Critical Multiplier",
   "tooltips.crit_standard": "1.5x Critical Multiplier",
   "tooltips.twohanded": "Two Handed",
+  "enchantment.twohandedengine.lightweight": "Lightweight",
+  "enchantment.twohandedengine.lightweight.description": "Twohanded weapons become onehanded but loose some attack damage",
   "tooltips.twohanded_allowed": "Two Handed Offhand Allowed"
 }
